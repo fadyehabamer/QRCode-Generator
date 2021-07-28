@@ -6,3 +6,7 @@
 - CSS
 - JavaScipt
   - Qr-code Library
+
+<p align="center">
+  <img src="img.png">
+</p>
